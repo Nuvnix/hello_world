@@ -1,2 +1,6 @@
 # hello_world
-My first repo
+
+Future Changes will be made here.
+Stay tuned! 
+
+Hi~Z
